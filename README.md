@@ -37,3 +37,25 @@ Resources that are going to be deployed
 ## Dependencies
 	
 	Fortigate Appliance
+
+---
+
+## Documentación del proyecto
+
+- [Changelog](CHANGELOG.md)
+- [Contribuir](CONTRIBUTING.md)
+
+---
+
+## Seguridad
+
+No commitees API tokens de FortiGate en `terraform.tfvars`.
+
+Ver [SECURITY.md](SECURITY.md).
+
+---
+
+## Licencia
+
+[MIT](LICENSE) — Copyright (c) Gabriel Cetraro
+
